@@ -1,0 +1,2 @@
+# disqusamp
+disqusamp blog pptqinsanqurani
